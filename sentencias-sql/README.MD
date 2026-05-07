@@ -3,6 +3,10 @@
 ## Descripción del Proyecto
 Este repositorio contiene el modelo físico e implementación técnica en SQL para una base de datos relacional de una fábrica de maniquíes. El sistema gestiona el catálogo de modelos, el inventario físico de piezas y las órdenes de ensamblaje.
 
+## Diagrama Entidad-Relación (DER)
+Podés visualizar el diagrama interactivo de la base de datos (con todas sus tablas y relaciones) haciendo clic en el siguiente enlace:
+**[Ver Diagrama en dbdiagram.io](https://dbdiagram.io/d/Equipo-68e84012d2b621e42224e68e)**
+
 ## Estructura del Repositorio
 Todos los scripts de bases de datos se encuentran dentro de la carpeta `/sentencias-sql`.
 
